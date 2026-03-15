@@ -19,7 +19,7 @@
 * 🚀 Building impactful platforms & developer tools
 * 🧠 Love solving **real-world problems with code**
 * ✍️ I write articles on **https://gagankm.site**
-* 💬 Ask me about **Python, JavaScript, Web Development**
+* 💬 Ask me about **Python, Machine Learning ,Deep Learning , Generative AI....**
 * 📫 Reach me at **[gagankmdeveloper@gmail.com](mailto:gagankmdeveloper@gmail.com)**
 * ⚡ Fun fact: *I think I am a developer 😆*
 
